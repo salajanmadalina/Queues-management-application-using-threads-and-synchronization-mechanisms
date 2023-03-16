@@ -1,0 +1,97 @@
+[(22 18 3), (23 18 2), (21 26 3), (24 26 3)]
+Timp simulare 0
+Coada 1: []
+Coada 2: []
+Timp simulare 1
+Coada 1: []
+Coada 2: []
+Timp simulare 2
+Coada 1: []
+Coada 2: []
+Timp simulare 3
+Coada 1: []
+Coada 2: []
+Timp simulare 4
+Coada 1: []
+Coada 2: []
+Timp simulare 5
+Coada 1: []
+Coada 2: []
+Timp simulare 6
+Coada 1: []
+Coada 2: []
+Timp simulare 7
+Coada 1: []
+Coada 2: []
+Timp simulare 8
+Coada 1: []
+Coada 2: []
+Timp simulare 9
+Coada 1: []
+Coada 2: []
+Timp simulare 10
+Coada 1: []
+Coada 2: []
+Timp simulare 11
+Coada 1: []
+Coada 2: []
+Timp simulare 12
+Coada 1: []
+Coada 2: []
+Timp simulare 13
+Coada 1: []
+Coada 2: []
+Timp simulare 14
+Coada 1: []
+Coada 2: []
+Timp simulare 15
+Coada 1: []
+Coada 2: []
+Timp simulare 16
+Coada 1: []
+Coada 2: []
+Timp simulare 17
+Coada 1: []
+Coada 2: []
+Timp simulare 18
+Coada 1: [(22 18 3)]
+Coada 2: [(23 18 2)]
+Timp simulare 19
+Coada 1: [(22 18 2)]
+Coada 2: [(23 18 1)]
+Timp simulare 20
+Coada 1: [(22 18 1)]
+Coada 2: [(23 18 0)]
+Timp simulare 21
+Coada 1: [(22 18 0)]
+Coada 2: []
+Timp simulare 22
+Coada 1: []
+Coada 2: []
+Timp simulare 23
+Coada 1: []
+Coada 2: []
+Timp simulare 24
+Coada 1: []
+Coada 2: []
+Timp simulare 25
+Coada 1: []
+Coada 2: []
+Timp simulare 26
+Coada 1: [(24 26 3)]
+Coada 2: [(21 26 3)]
+Timp simulare 27
+Coada 1: [(24 26 2)]
+Coada 2: [(21 26 2)]
+Timp simulare 28
+Coada 1: [(24 26 1)]
+Coada 2: [(21 26 1)]
+Timp simulare 29
+Coada 1: [(24 26 0)]
+Coada 2: [(21 26 0)]
+Timp simulare 30
+Coada 1: []
+Coada 2: []
+Peek hour is 18.
+Average waiting time is 1.375.
+Average service time is 2.75.
